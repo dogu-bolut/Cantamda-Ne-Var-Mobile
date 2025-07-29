@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HitabetSeninSuperGucunMobile.sln"
+    "dotnet.defaultSolution": "Cantamda-Ne-Var-Mobile.sln"
 }
